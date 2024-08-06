@@ -4,6 +4,7 @@ Function
 fun main (){
 
    printName()
+   
    sayHi()
 
 }
